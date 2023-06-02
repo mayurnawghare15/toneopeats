@@ -1,0 +1,13 @@
+{
+    "jsondata":[{"itemname":"Paneer Kadhai Meal Bowl","image":"https://toneopeats.com/public/food_images/Paneer_Kadhai_M.png"},
+        {"itemname":"Veg Makhanwala Meal Bowl","image":"https://toneopeats.com/public/food_images/Veg_Makkhanwala_Meal.png"},
+        {"itemname":"Asian Stir-Fried Veg Meal Bowl","image":"https://toneopeats.com/public/food_images/Asian_Stir_Fried_Veg_Meal-removebg-preview.png"},
+        {"itemname":"Veg Paprika Meal Bowl","image":"https://toneopeats.com/public/food_images/Veg_Paprika_Meal.png"},
+        {"itemname":"Chicken & Veg Teriyaki Meal Bowl","image":"https://toneopeats.com/public/food_images/Chicken___Veg_Teriyaki_Meal.png"},
+        {"itemname":"Caesar Salad Bowl" ,"image":"https://toneopeats.com/public/food_images/Caesar_Salad_Bowl-removebg-preview.webp"},
+        {"itemname":"Hummus Salad Bowl" ,"image":"https://toneopeats.com/public/food_images/Falafel___Hummus_Salad_Bowl_1-removebg-preview.webp"},
+        {"itemname":"Blooming Red Juice", "image":"https://toneopeats.com/public/food_images/Blooming_Red_Juice-removebg-preview.webp"},
+        {"itemname":"Forever Young Juice" ,"image":"https://toneopeats.com/public/food_images/Immune_Booster_Juice-removebg-preview.webp"},
+        { "itemname":"Green Love Juice","image":"https://toneopeats.com/public/food_images/Green_Love_Juice-removebg-preview.webp"}
+    ]
+}

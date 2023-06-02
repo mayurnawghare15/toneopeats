@@ -1,0 +1,8 @@
+.width-card{
+    max-width:17rem;
+}
+
+.card-group .card{
+    border:none;
+    background: none;
+}

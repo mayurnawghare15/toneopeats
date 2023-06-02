@@ -1,0 +1,12 @@
+.banner-img{
+    width: 100%;
+}
+/* .bannernew{
+    margin:  0 auto;
+} */
+
+.banner-img img{
+    margin-top: 63px;
+    width: 60rem;
+    height: 12rem;
+}
